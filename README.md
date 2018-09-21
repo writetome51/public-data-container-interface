@@ -1,0 +1,1 @@
+It's just a TypeScript interface with 1 property:  'data'
