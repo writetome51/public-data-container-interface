@@ -1,5 +1,5 @@
 {
-  "name": "open-data-container-interface",
+  "name": "public-data-container-interface",
   "version": "1.0.0",
   "description": "Just a TypeScript interface with 1 property:  'data'",
   "main": "",

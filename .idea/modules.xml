@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/open-data-container.iml" filepath="$PROJECT_DIR$/.idea/open-data-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/public-data-container-interface.iml" filepath="$PROJECT_DIR$/.idea/public-data-container-interface.iml" />
     </modules>
   </component>
 </project>
