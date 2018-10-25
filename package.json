@@ -1,6 +1,6 @@
 {
   "name": "public-data-container-interface",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Just a TypeScript interface with 1 property:  'data'",
   "main": "",
   "scripts": {
