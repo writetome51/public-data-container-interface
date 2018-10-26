@@ -4,6 +4,8 @@ To include in your project:
 
 import { IPublicDataContainer } from 'public-data-container-interface/IPublicDataContainer'
 
-Usage:
+Usage examples:
 
-export ArrayContainerClass implements IPublicDataContainer<any[]> {...}
+export class ArrayContainerClass implements IPublicDataContainer<any[]> {...}
+
+export class StringContainerClass implements IPublicDataContainer<string> {...}
